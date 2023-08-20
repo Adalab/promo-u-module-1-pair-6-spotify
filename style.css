@@ -1,63 +1,26 @@
-<<<<<<< HEAD
-header{
+.header{
     background-color: black;
 }
-h1{
+.h1{
     color: white;
     font-family: sans-serif;
     font-size: 10px;
     text-align: left;
        
 }
-img.izquierda {
+.izquierda {
     margin-left: 10px;
     float: center,left;
     width: 15px;
     height:15px;
 }
-img.derecha {
+.derecha {
     margin-right: 10px;
     float: right;
     width: 13px;
     height:13px;
 }
-button{
+.button{
     background-color: rgb(68, 205, 68);
     border-radius: 15px;
 }
-=======
-header{
-    background-color: black;
-}
-h1{
-    color: white;
-    font-family: sans-serif;
-    font-size: 10px;
-    text-align: left;
-       
-}
-img.izquierda {
-    margin-left: 10px;
-    float: center,left;
-    width: 15px;
-    height:15px;
-}
-img.derecha {
-    margin-right: 10px;
-    float: right;
-    width: 13px;
-    height:13px;
-}
-button{
-    background-color: rgb(68, 205, 68);
-    border-radius: 15px;
-}
-
-
-
-
-
-
-
-
->>>>>>> 49812ebbb492c7f7800a3cc9878af43a8941de3b
